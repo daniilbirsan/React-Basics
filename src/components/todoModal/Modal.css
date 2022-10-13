@@ -1,0 +1,20 @@
+.modal input{
+    width: 488px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.modal input:focus{
+    outline: none;
+    box-shadow: rgba(19, 126, 203, 0.7) 0px 1px 0px, rgba(19, 126, 203, 0.7) 0px 0px 8px;
+}
+.modal button{
+    width: 100%;
+    margin-top: 15px;
+    padding: 10px 0 10px 0;
+    background-color: rgba(3, 128, 3, 0.79);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;     
+    border: none;  
+}
